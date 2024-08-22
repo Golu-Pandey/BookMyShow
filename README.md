@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# BookMyShow
+implemented the front-end of Book-My-Show along with it's functionalities like- add movie, diaplay recent movies information, hall name and slot for particular movies, seat booking, seat position and many more functionalities
+>>>>>>> ae8213f6c5d39c6260ff5f81dad0ccaa804f1bc3
